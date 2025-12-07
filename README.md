@@ -28,16 +28,18 @@ Users can search countries, filter by region, and view details like population, 
 ## 🌐 API Used
 https://restcountries.com/v3.1/all?fields=name,capital,region,population,flags,cca3
 
+---
+
 ## 📸 Screenshots
 
 ### Home Page  
 ![Home Page](img/Home.png)
-
+### Dark Mode
+![Dark Mode](img/DarkMode.png)
 ### Country Details  
 ![Country Details](img/India.png)
 
-### Dark Mode
-![Dark Mode](img/DarkMode.png)
+
 
 
 
