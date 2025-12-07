@@ -30,12 +30,15 @@ https://restcountries.com/v3.1/all?fields=name,capital,region,population,flags,c
 
 ---
 
+
 ## 📸 Screenshots
 
 ### Home Page  
 ![Home Page](img/Home.png)
+
 ### Dark Mode
 ![Dark Mode](img/DarkMode.png)
+
 ### Country Details  
 ![Country Details](img/India.png)
 
